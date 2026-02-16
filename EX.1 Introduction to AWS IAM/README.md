@@ -76,9 +76,9 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** ABISHA LINU L
+**Name:** NIKSHITHA S
 
-**Reg No:** 212224040011
+**Reg No:** 212224040220
 
 **Course:** Introduction to Cloud Computing  
 
